@@ -27,7 +27,7 @@ namespace multilevel_inheritance
 
             Console.WriteLine("Grand father name is: " + obj.grand_fa_name);
             Console.WriteLine("Father name is: " + obj.father_name);
-            Console.WriteLine("My name is: " + obj.my_name);
+            Console.WriteLine("My name is: " + obj.my_name + " Thank you");
         }
     }
 }

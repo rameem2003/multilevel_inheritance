@@ -4,18 +4,18 @@ namespace multilevel_inheritance
 {
     class grand_father
     {
-        public string grand_fa_name = "Abul Hossain.";
+        public string grand_fa_name = "Abul Hossain";
     }
 
     class father: grand_father
     {
-        public string father_name = "A N M Mudassir Hossain.";
+        public string father_name = "A N M Mudassir Hossain";
     }
 
 
     class me : father
     {
-        public string my_name = "Mahmood Hassan Rameem.";
+        public string my_name = "Mahmood Hassan Rameem";
     }
 
 
